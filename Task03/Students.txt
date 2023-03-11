@@ -1,1 +1,1 @@
-1^Nikolay1^Ariskin1^FMiIT^3^2^\r\n2^Nikolay2^Ariskin2^FMiIT^3^2^\r\n3^Nikolay3^Ariskin3^FMiIT^3^2^\r\n4^Nikolay4^Ariskin^FMiIT^3^2\r\n
+1^Nikolay1^Ariskin1^FMiIT^3^2^\r\n2^Nikolay2^Ariskin2^FMiIT^3^2^\r\n3^Nikolay3^Ariskin3^FMiIT^3^2^\r\n4^Nikolay4^Ariskin^FMiIT^3^2\r\n1^Nikolay1^Ariskin1^FMiIT^3^2^\r\n2^Nikolay2^Ariskin2^FMiIT^3^2^\r\n3^Nikolay3^Ariskin3^FMiIT^3^2^\r\n4^Nikolay4^Ariskin4^FMiIT^3^2^\r\n1^Nikolay1^Ariskin1^FMiIT^3^2^\r\n2^Nikolay2^Ariskin2^FMiIT^3^2^\r\n3^Nikolay3^Ariskin3^FMiIT^3^2^\r\n4^Nikolay4^Ariskin4^FMiIT^3^2^\r\n
