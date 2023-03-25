@@ -1,0 +1,21 @@
+{
+    "name": "ariskinnv/app",
+    "autoload": {
+        "psr-4": {
+            "ariskinnv\\app\\": "src/"
+        },
+        "files" : [
+            "src/checkIfBalanced.php",
+            "src/Stack.php",
+            "src/StackInterface.php",
+            "src/Test.php"]
+    },
+    "authors": [
+        {
+            "name": "AriskinNV"
+        }
+    ],
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.7"
+    }
+}
