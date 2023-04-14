@@ -1,0 +1,20 @@
+{
+    "name": "ariskinnv/task05",
+    "autoload": {
+        "psr-4": {
+            "Ariskinnv\\Task05\\": [ 
+                "src/",
+                "tests/Unit/"
+            ]
+        },
+        "files": [ "src/Test.php" ]
+    },
+    "authors": [
+        {
+            "name": "ariskinnv"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
