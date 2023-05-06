@@ -45,6 +45,6 @@ class HotelTest extends TestCase
         self::$economclass = new InternetHotel(self::$economclass);
 
         $this->assertsame(1600, self::$economclass->getCost());
-        $this->assertsame('Номер эконом класса, , дополнительный диван, выделенный Интернет', self::$economclass->getDescription());
+        $this->assertsame('Номер эконом класса, дополнительный диван, выделенный Интернет', self::$economclass->getDescription());
     }
 }
