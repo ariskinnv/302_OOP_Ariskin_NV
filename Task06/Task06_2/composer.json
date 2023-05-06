@@ -1,5 +1,5 @@
 {
-    "name": "ariskinnv/task06_1",
+    "name": "ariskinnv/task06_2",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
